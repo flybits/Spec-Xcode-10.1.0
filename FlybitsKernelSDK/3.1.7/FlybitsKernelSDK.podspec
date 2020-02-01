@@ -7,5 +7,5 @@ Pod::Spec.new do |s|
   s.homepage = "https://devportal.flybits.com"
   s.summary = "Flybits SDK provides powerful contextualization, customization and integration capabilities for building context-aware apps."
   s.source = { :http => "https://bintray.com/api/ui/download/flybits-inc/Xcode-10.1.0/FlybitsKernelSDK-v3.1.7/FlybitsKernelSDK.zip"}
-  s.dependency 'FlybitsSDK', '3.1.7'
+  s.dependency 'FlybitsSDK', "3.1.7"
  end
